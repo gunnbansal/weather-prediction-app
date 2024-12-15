@@ -12,3 +12,4 @@ A sleek and user-friendly web application to get real-time weather updates and p
 - **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
 - **API Integration**: OpenWeather API for live weather data.
 
+## ☀️ Screenshots
