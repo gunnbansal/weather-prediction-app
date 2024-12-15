@@ -13,3 +13,8 @@ A sleek and user-friendly web application to get real-time weather updates and p
 - **API Integration**: OpenWeather API for live weather data.
 
 ## ☀️ Screenshots
+![Screenshot (13)](https://github.com/user-attachments/assets/4d27db3f-3a67-4349-9962-5c9a818b1f62)
+![Screenshot (14)](https://github.com/user-attachments/assets/14b9dcc6-2203-4861-ade5-adaec82f3891)
+![Screenshot (15)](https://github.com/user-attachments/assets/701125db-5398-44d6-8d73-fee688605f30)
+![Screenshot (16)](https://github.com/user-attachments/assets/bbac9c22-06db-43c4-9d8d-65c480432717)
+
